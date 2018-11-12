@@ -1,5 +1,3 @@
-# desafio-.Net
-
 # API RESTful de usuários + login
 
 Criar aplicação que exponha uma API RESTful de criação de usuários com login.
