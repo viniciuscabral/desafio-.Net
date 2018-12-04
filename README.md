@@ -76,7 +76,6 @@ Obs: O id do usuário pode ser um sequencial gerado pelo banco ou um id único.
 * Banco de dados em memória.
 * Persistência com Entity Framework ou NHibernate.
 * Framework IOC de sua escolha.
-* Disponibilizar a API rodando em algum host (Heroku, AWS, Digital Ocean, etc).
 * Utilizar .Net framework ou .Net Core.
 
 ## Requisitos desejáveis
